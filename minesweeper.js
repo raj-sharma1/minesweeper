@@ -125,7 +125,6 @@ function countSurroundingMines (cell) {
       count+=2;
     }  
   }
-  console.log(count);
   return count;
 }
 
