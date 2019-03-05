@@ -77,19 +77,6 @@ var board = {
   ]
 }
 
-  
-   
-  
-    
-  
-
-
-
-
-
-
-
-
  // Don't remove this function call: it makes the game work!
 function startGame () {
   document.addEventListener("click", checkForWin)
